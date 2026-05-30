@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsender",
+        "uuid": 8293635,
+        "checksum": "2cs87b"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
